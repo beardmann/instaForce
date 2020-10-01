@@ -18,14 +18,22 @@ Simple script Python for Brute force account instagram
 ## ★ Command in Kali :
 
 cd instaForce
+cd instaForce
+ls
+chmod +x *
+bash instaForce or ./instaforce
+
 
 pip install requests
 
-python force.py
+python2 force.py
 
 ## ★ Command in Termux 
 
 cd instaForce
+ls
+chmod +x *
+bash instaForce or ./instaforce
 
 pkg install python2 
 
